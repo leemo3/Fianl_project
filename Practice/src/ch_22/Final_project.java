@@ -21,7 +21,7 @@ public class Final_project {
         int[] fibs = calcFibIndexes40to45();
         /** calculate the Fibonacci numbers from index 20 to index 25 */
 
-        System.out.println("\t\t20    21    22    33    24    25");
+        System.out.println("\t\t40    41    42    43    44    45");
         System.out.println("--------------------|");
         System.out.print("Basel Musaed\t\t  ");
         for (int i = 0; i < fibs.length - 1; i++) {
